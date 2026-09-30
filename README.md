@@ -45,7 +45,7 @@
 ## 🧑‍💻 About Me
 
 <details open>
-<summary><b>⚡ Interactive Terminal: <code>$ odivpds --profile</code> (Click to collapse/expand)</b></summary>
+<summary><code>$ odivpds --profile</code> (Click to collapse/expand)</summary>
 <br>
 
 ```json
@@ -63,7 +63,7 @@
   ],
   "currentFocus": [
     "MoneyTree-Wevitation-Client (Frontend & Architecture)",
-    "getfiles-api (Backend & File Processing)"
+    "Lesstresso (Coffee Shop Management & Admin Dashboard)"
   ],
   "philosophy": "Build it. Break it. Learn it. Improve it."
 }
@@ -81,7 +81,7 @@ I'm a developer who enjoys experimenting with modern technologies and turning co
 
 ---
 
-## 🛠️ Tech Stack Arsenal
+## 🛠️ My Tech Stack 
 
 <p><i>Organized into interactive expandable categories. Click any category to explore tools & proficiencies:</i></p>
 
@@ -125,7 +125,7 @@ I'm a developer who enjoys experimenting with modern technologies and turning co
 
 </details>
 
-<details>
+<details open>
 <summary><b>🗄️ Databases, ORM & Storage</b></summary>
 <br>
 
@@ -139,7 +139,7 @@ I'm a developer who enjoys experimenting with modern technologies and turning co
 
 </details>
 
-<details>
+<details open>
 <summary><b>☁️ DevOps, Cloud & Developer Tooling</b></summary>
 <br>
 
@@ -186,24 +186,24 @@ I'm a developer who enjoys experimenting with modern technologies and turning co
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📦 getfiles-api</h3>
+      <h3 align="center">☕ Lesstresso</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-Open_For_Collaboration-orange?style=flat-square" alt="Status" />
-        <img src="https://img.shields.io/badge/Type-RESTful_API-purple?style=flat-square" alt="Type" />
+        <img src="https://img.shields.io/badge/Status-Active_Development-brightgreen?style=flat-square" alt="Status" />
+        <img src="https://img.shields.io/badge/Type-POS_&_Dashboard-orange?style=flat-square" alt="Type" />
       </p>
-      <p>High-efficiency API service dedicated to robust file handling, streaming transfers, and cloud storage management.</p>
+      <p>A comprehensive digital ordering, menu catalog, and administrative management dashboard for Lesstresso Coffee, built for smooth point-of-sale operations.</p>
       <details>
         <summary><b>🔍 Project Details & Highlights</b></summary>
         <ul>
-          <li><b>Focus:</b> Backend Performance, Security & File Integrity</li>
-          <li><b>Collaboration:</b> Open to contributions, PRs, and architectural reviews</li>
-          <li><b>Highlights:</b> Modular endpoint design, caching layers, scalable pipelines</li>
+          <li><b>Focus:</b> Point of Sale (POS), Order Management & Analytics</li>
+          <li><b>Features:</b> Real-time orders, dynamic catalog, sales reporting & responsive admin UI</li>
+          <li><b>Highlights:</b> Clean interactive interface, fast transactional workflows, and modular codebase</li>
         </ul>
       </details>
       <br>
       <p align="center">
-        <a href="https://github.com/odivpds/getfiles-api">
-          <img src="https://img.shields.io/badge/Contribute_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Contribute" />
+        <a href="https://github.com/odivpds/Lesstresso">
+          <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" />
         </a>
       </p>
     </td>

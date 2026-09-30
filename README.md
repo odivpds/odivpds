@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Hero Banner (Dynamic Animated Wave) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24,28&height=220&section=header&text=Putu%20Agus%20Prana%20Dhiva%20Satvika&fontSize=28&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Builder%20%E2%80%A2%20Tech%20Explorer&descAlignY=58&descAlign=50" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f780,100:bb9af780&height=220&section=header&text=Putu%20Agus%20Prana%20Dhiva%20Satvika&fontSize=28&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%E2%80%A2%20Software%20Builder%20%E2%80%A2%20Tech%20Explorer&descAlignY=58&descAlign=50&fontColor=ffffff" width="100%" alt="Header Banner" />
 
 <!-- Dynamic Animated Typing SVG -->
 <a href="https://github.com/odivpds">
@@ -315,6 +315,6 @@ I'm a developer who enjoys experimenting with modern technologies and turning co
 <br><br>
 
 <!-- Bottom Waving Capsule Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,24,28&height=120&section=footer" width="100%" alt="Footer Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f780,100:bb9af780&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
